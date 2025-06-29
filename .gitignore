@@ -1,0 +1,20 @@
+# Arduino build files
+*.cpp.o
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.srec
+*.d
+
+# Arduino sketch build folder
+/build/
+*.pyc
+__pycache__/
+
+# DS_Store for macOS
+.DS_Store
+
+# Windows thumbs.db
+Thumbs.db
